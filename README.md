@@ -64,8 +64,10 @@ A sleek, modern web application to compare GitHub developer profiles side-by-sid
 
 ## 📱 Screenshots
 
-![GitHub Profile Comparer](https://github.com/user-attachments/assets/b84608e0-10e2-4ad0-8942-5f01245b269c)
-![Comparison Results](https://github.com/user-attachments/assets/04c704c8-3564-4601-bad2-cc1e1c1cb9fd)
+<img width="1903" height="872" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/b114928d-ed18-4a9e-ad01-867bb421ec09" />
+<img width="1901" height="872" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/0ae2385e-5ac9-4753-9005-7cd2e8ab9bcc" />
+<img width="1903" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/8c66a4b9-5af8-46ad-87c5-ea38f185e48a" />
+
 
 ## 🚀 Build for Production
 
